@@ -1,5 +1,9 @@
 # social-linktree
 
+| :zap: NOTICE               |
+|:---------------------------|
+| This project is no longer being maintained. I am now using a [new design](https://github.com/BluemediaGER/littlelink) based on [LittleLink](https://github.com/sethcottle/littlelink). |
+
 This is my personal link page to my social media profiles. It serves a similar purpose as e.g. LinkTree, except that it's selfhosted. The live version can be found at [bluemedia.dev/social](https://bluemedia.dev/social).
 
 ## Authors
